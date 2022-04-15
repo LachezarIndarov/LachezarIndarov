@@ -1,5 +1,5 @@
 ### Lachezar Indarov
-- 🎓 Education: Master Engineer of Computer Systems and Technologys
+- 🎓 Education: Master Engineer of Computer Systems and Technologies
 - 👨🏼‍💻 Currently working in Automotive Industry as:
           - 📝 Automation Engineer
           - 💻 PLC Programmer (ST, Beckhoff, TwinCAT)
