@@ -18,6 +18,5 @@ Find me around the web:
 </p>
 <hr>
 
-<!-- new branch
 ![snake gif](https://github.com/RadoslavBukov/RadoslavBukov/blob/main/Gif/github-contribution-grid-snake.svg)
 <p align="center"> 
